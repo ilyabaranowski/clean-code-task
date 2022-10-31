@@ -18,8 +18,10 @@ body {
 }
 
 @media (max-width:768px) {
+
 .squares-picture { text-align: center;
 }
+
 }
 .center-main-page-el {
     display: block;
